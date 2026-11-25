@@ -1,0 +1,11 @@
+.env
+.env.*
+.git
+.devcontainer
+notebooks
+scripts
+__pycache__
+**/__pycache__
+*.pyc
+*.ipynb
+.venv
